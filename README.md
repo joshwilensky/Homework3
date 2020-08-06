@@ -8,6 +8,8 @@
 
 ### [Screenshot](#Screenshot)
 
+### [Video](#Video)
+
 ### [Description](#Description)
 
 ### [Installation](#Installation)
@@ -27,6 +29,10 @@
 ### <a name="Screenshot"></a>Screenshot:
 
 ![Password Generator - Google Chrome 8_6_2020 1_19_58 AM (2)](https://user-images.githubusercontent.com/66797344/89493920-220a2800-d783-11ea-934f-33c4d8d26fc6.png)
+
+### [Video](#Video)
+
+![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/66797344/89495025-5da5f180-d785-11ea-92ba-59e0a412e857.gif)
 
 ### <a name="Description"></a>Description:
 
