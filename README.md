@@ -6,6 +6,8 @@
 
 ---
 
+### [Screenshot](#Screenshot)
+
 ### [Description](#Description)
 
 ### [Installation](#Installation)
@@ -22,7 +24,7 @@
 
 ---
 
-### <a name=""Screenshot"></a>Screenshot:
+### <a name="Screenshot"></a>Screenshot:
 
 ![Password Generator - Google Chrome 8_6_2020 1_19_58 AM (2)](https://user-images.githubusercontent.com/66797344/89493920-220a2800-d783-11ea-934f-33c4d8d26fc6.png)
 
